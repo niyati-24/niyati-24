@@ -1,16 +1,65 @@
 ## Hi there 👋 I'm Niyati Gokani
 
-<!--
-**niyati-24/niyati-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 About Me
 
-Here are some ideas to get you started:
+I am passionate about Semiconductor Engineering and motivated to build a career in VLSI and chip design.
+I enjoy learning how electronics, physics, and software come together to create modern integrated circuits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Areas of Interest
+
+VLSI Design and Verification
+
+CMOS Technology 
+
+Digital and Analog IC Design
+
+Semiconductor Fabrication Process
+
+Timing, Power, and Area Optimization
+
+🛠️ Skills
+
+Hardware & Electronics
+
+Digital Electronics
+
+Analog Circuits
+
+CMOS Design
+
+Programming & HDL
+
+Verilog / SystemVerilog
+
+C Programming
+
+Python (for automation and analysis)
+
+
+📂 Projects & Learning
+
+RTL Design and Simulation
+
+CMOS Inverter and Basic Analog Blocks
+
+Logic Design and Timing Analysis
+
+Exploring real-world EDA workflows
+
+🌱 Currently Learning
+
+Physical Design Fundamentals
+
+Semiconductor Fabrication and Process Nodes
+
+Low-Power VLSI Design
+
+🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com
+
+Email: niyatigokani24@gmail.com
+
+💡 Quote
+
+“The future is built on silicon.”
