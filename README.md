@@ -56,7 +56,7 @@ Low-Power VLSI Design
 
 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com
+LinkedIn: https://www.linkedin.com/in/niyati-gokani-0a2482390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Email: niyatigokani24@gmail.com
 
